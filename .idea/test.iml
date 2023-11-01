@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/spec" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/www/spec" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/www/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/www/tests/Feature" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/www/tests/Unit" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/www/vendor/defuse/php-encryption" />
+      <excludeFolder url="file://$MODULE_DIR$/www/vendor/firebase/php-jwt" />
+      <excludeFolder url="file://$MODULE_DIR$/www/vendor/laravel/passport" />
+      <excludeFolder url="file://$MODULE_DIR$/www/vendor/lcobucci/clock" />
+      <excludeFolder url="file://$MODULE_DIR$/www/vendor/lcobucci/jwt" />
+      <excludeFolder url="file://$MODULE_DIR$/www/vendor/league/event" />
+      <excludeFolder url="file://$MODULE_DIR$/www/vendor/league/oauth2-server" />
+      <excludeFolder url="file://$MODULE_DIR$/www/vendor/league/uri" />
+      <excludeFolder url="file://$MODULE_DIR$/www/vendor/league/uri-interfaces" />
+      <excludeFolder url="file://$MODULE_DIR$/www/vendor/nyholm/psr7" />
+      <excludeFolder url="file://$MODULE_DIR$/www/vendor/paragonie/constant_time_encoding" />
+      <excludeFolder url="file://$MODULE_DIR$/www/vendor/paragonie/random_compat" />
+      <excludeFolder url="file://$MODULE_DIR$/www/vendor/phpseclib/phpseclib" />
+      <excludeFolder url="file://$MODULE_DIR$/www/vendor/spatie/laravel-permission" />
+      <excludeFolder url="file://$MODULE_DIR$/www/vendor/symfony/psr-http-message-bridge" />
+      <excludeFolder url="file://$MODULE_DIR$/www/vendor/tymon/jwt-auth" />
+      <excludeFolder url="file://$MODULE_DIR$/www/vendor/wildside/userstamps" />
+      <excludeFolder url="file://$MODULE_DIR$/www/vendor/bacon/bacon-qr-code" />
+      <excludeFolder url="file://$MODULE_DIR$/www/vendor/dasprid/enum" />
+      <excludeFolder url="file://$MODULE_DIR$/www/vendor/laravel/ui" />
+      <excludeFolder url="file://$MODULE_DIR$/www/vendor/pragmarx/google2fa" />
+      <excludeFolder url="file://$MODULE_DIR$/www/vendor/pragmarx/google2fa-laravel" />
+      <excludeFolder url="file://$MODULE_DIR$/www/vendor/pragmarx/google2fa-qrcode" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
