@@ -1,4 +1,10 @@
-## create folder 'database' 
+## create folder 'database', logs/nginx/error.log
+after folder actions
+--database
+--docker
+--logs/nginx/error.log
+--wwww
+--docker-compose.yml
 ## For Install
 
 docker-compose up -d
